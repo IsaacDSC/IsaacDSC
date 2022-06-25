@@ -28,16 +28,15 @@
 
 ----
 
-### Works
+### Working
 
 - Developement Backend 
   - API Rest, Socket, GraphQL
 - Projects Typescript and JavaScript using Nodejs
 - Tests using Jest and Mocha and others.
-- Experiênce using databases with relationship, not relation, cql and cached.
-- Experiênce services queues usin Apache Kafka and RabbitMQ.
-- Eperiênce in using docker from development and deployment.
-- 
+- Experience using databases with relational, not relational, columnar database and cache database.
+- Experience services queues usin Apache Kafka and RabbitMQ.
+- Eperience in using docker from development and deployment.
 
 ###  Academy's
 
@@ -56,7 +55,7 @@ I'm Software Engineer and love architecture the software and software intelligen
 - 🌱 I am currently learning Golang.
 - 👯 I am looking to collaborate on Architectures the software and development the softwares.
 - 🤔  Curiosity: Nonconformist, willing to always change, and very curious.
--  📚 Golang, Architectures, IA, among others ...
+- 📚 Golang, Architectures, IA, among others ...
 - 🧑🏻‍🚀 The impossible is just a matter of opinion.
 - 😄 I like Golang, Nodejs, Elixir, Architectures among others...
 - ⚡ I like of many challenges all the time. 
