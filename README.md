@@ -37,6 +37,8 @@
 - Experience using databases with relational, not relational, columnar database and cache database.
 - Experience services queues usin Apache Kafka and RabbitMQ.
 - Eperience in using docker from development and deployment.
+ 
+ <hr>
 
 ###  Academy's
 
