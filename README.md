@@ -41,7 +41,7 @@
 
 ### Abount-me:
 
-​	*Co-Fundador SolutionsTech - Developing digitals solutions - Web, Mobile and Desktop.*
+​	*I'm Software Engineer and love architecture the software and software intelligence, tests automatizateds, developing the software, deploy, in others.*
 
 <hr>
 
