@@ -28,23 +28,11 @@
 
 ----
 
-### Working
-
-- Developement Backend 
-  - API Rest, Socket, GraphQL
-- Projects Typescript and JavaScript using Nodejs
-- Tests using Jest and Mocha and others.
-- Experience using databases with relational, not relational, columnar database and cache database.
-- Experience services queues usin Apache Kafka and RabbitMQ.
-- Eperience in using docker from development and deployment.
- 
- <hr>
-
 ###  Academy's
 
   1. Automation Industry.
-
   2. Software Enginer.
+  3. Solution Architecture.
 
 <hr>
 
@@ -53,24 +41,26 @@
 
 I'm Software Engineer and love architecture the software and software intelligence, tests automatizateds, developing the software, deploy, in others.
 
-- 🔭 I am currently working on Tm1/Oli.
-- 🌱 I am currently learning Golang.
 - 👯 I am looking to collaborate on Architectures the software and development the softwares.
-- 🤔  Curiosity: Nonconformist, willing to always change, and very curious.
-- 📚 Golang, Architectures, IA, among others ...
+- 🤔 Curiosity: Nonconformist, willing to always change, and very curious.
+- 📚 MBA - Solution Architecture
 - 🧑🏻‍🚀 The impossible is just a matter of opinion.
-- 😄 I like Golang, Nodejs, Elixir, Architectures among others...
+- 😄 I like Rust, Golang, Nodejs, Architectures among others...
 - ⚡ I like of many challenges all the time. 
-- 😡 I hate repetitive because I have a culture of automation.
+- 😡 I hate repetitive jobs because I have a culture of automation.
 
 <hr>
 
 ### Experiences 
 
+- Developement Backend 
+  - API Rest, WebSocket, Pulling, GraphQL, GRPC.
+- Implementation Infrastruture
+  - Nomad, AWS, OnPremise, Infra as Code. 
 - Development the hub integrations
 - Development the system produces and consumer queues
 - Development the server websocket
 - Development the systems
 - Using differences types database 
   - Mysql, Postgres, Redis, Mongodb, Dynamo, SqlServer ,Cassandra.
-- Development services TDD/BDD
+- Development services TDD/BDD/DDD
