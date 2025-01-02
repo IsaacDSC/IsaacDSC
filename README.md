@@ -46,8 +46,6 @@ I'm Software Engineer and love architecture the software and software intelligen
 - 📚 MBA - Solution Architecture
 - 🧑🏻‍🚀 The impossible is just a matter of opinion.
 - 😄 I like Rust, Golang, Nodejs, Architectures among others...
-- ⚡ I like of many challenges all the time. 
-- 😡 I hate repetitive jobs because I have a culture of automation.
 
 <hr>
 
