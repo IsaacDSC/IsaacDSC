@@ -28,37 +28,94 @@
 
 ----
 
-###  Academy's
+# Isaac DSC 👋
 
-  1. Automation Industry.
-  2. Software Enginer.
-  3. Solution Architecture.
+### Software Engineer • Tech Lead • Solution Architect
 
-<hr>
+I'm a focused on **software architecture, scalability, and high-impact systems**.  
+I work at the intersection of **technical decision-making, system design, and team enablement**, turning complex problems into sustainable solutions.
 
+My experience spans **financial systems, growth platforms, and high-throughput integrations**, always with a strong focus on **architecture, observability, and cost efficiency**.
 
-### Abount-me:
+---
 
-I'm Software Engineer and love architecture the software and software intelligence, tests automatizateds, developing the software, deploy, in others.
+## What I Do
 
-- 👯 I am looking to collaborate on Architectures the software and development the softwares.
-- 🤔 Curiosity: Nonconformist, willing to always change, and very curious.
-- 📚 MBA - Solution Architecture
-- 🧑🏻‍🚀 The impossible is just a matter of opinion.
-- 😄 I like Rust, Golang, Nodejs, Architectures among others...
+- Design and evolve **scalable, resilient architectures**
+- Lead **technical decisions** and architectural trade-offs
+- Build and maintain **high-availability backend systems**
+- Drive **observability, reliability, and cost optimization**
+- Support and mentor **junior and mid-level engineers**
+- Reduce technical debt while enabling product growth
 
-<hr>
+---
 
-### Experiences 
+## Professional Focus
 
-- Developement Backend 
-  - API Rest, WebSocket, Pulling, GraphQL, GRPC.
-- Implementation Infrastruture
-  - Nomad, AWS, OnPremise, Infra as Code. 
-- Development the hub integrations
-- Development the system produces and consumer queues
-- Development the server websocket
-- Development the systems
-- Using differences types database 
-  - Mysql, Postgres, Redis, Mongodb, Dynamo, SqlServer ,Cassandra.
-- Development services TDD/BDD/DDD
+### Architecture & System Design
+- Distributed systems and event-driven architectures
+- Clean Architecture, DDD, and modular design
+- API design (REST, GraphQL, gRPC)
+- High-throughput and low-latency systems
+
+### Platform & Infrastructure
+- Cloud and hybrid environments (AWS, On-Premise)
+- Infrastructure as Code and CI/CD pipelines
+- Nomad and Kubernetes for orchestration
+- Reliability, scalability, and cost-aware architectures
+
+### Messaging & Integrations
+- Kafka, RabbitMQ, Pub/Sub
+- Producers, consumers, and async workflows
+- Integration hubs and cross-domain communication
+
+### Engineering Excellence
+- TDD / BDD
+- Observability-first mindset
+- Logging, metrics, tracing, and standardization
+- Documentation and architectural decision records (ADR)
+
+---
+
+## Tech Stack
+
+**Languages**
+- Golang, TypeScript, Java, Python
+
+**Databases**
+- PostgreSQL, MySQL, MongoDB, DynamoDB, Redis, Cassandra
+
+**Infra & Tools**
+- Docker, Terraform, Nomad, Kubernetes
+- Kafka, RabbitMQ
+- AWS, Vault, Nginx
+
+---
+
+## Principles I Believe In
+
+- Architecture is a **means**, not a goal
+- Simplicity scales better than cleverness
+- Systems should be **observable by default**
+- Technical decisions must consider **people, cost, and evolution**
+- Mentorship is part of engineering excellence
+
+---
+
+## Collaboration
+
+I'm open to collaborating on:
+- System design and architectural reviews
+- Platform engineering and backend foundations
+- Scaling teams and systems sustainably
+
+---
+
+## Connect
+
+- [LinkedIn](https://linkedin.com/in/isaac-dsc-b28600175)
+
+---
+
+> *The impossible is just a matter of opinion.*
+
