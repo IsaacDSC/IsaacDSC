@@ -29,7 +29,7 @@
 
 # Isaac DSC 👋
 
-### Software Engineer • Tech Lead • Solution Architect
+### Software Engineer • Solution Architect
 
 I'm a focused on **software architecture, scalability, and high-impact systems**.  
 I work at the intersection of **technical decision-making, system design, and team enablement**, turning complex problems into sustainable solutions.
@@ -40,39 +40,32 @@ My experience spans **financial systems, growth platforms, and high-throughput i
 
 ## What I Do
 
-- Design and evolve **scalable, resilient architectures**
-- Lead **technical decisions** and architectural trade-offs
-- Build and maintain **high-availability backend systems**
-- Drive **observability, reliability, and cost optimization**
-- Support and mentor **junior and mid-level engineers**
-- Reduce technical debt while enabling product growth
+Currently, I am developing solutions focused on software architecture, service decoupling, scalability, observability, and continuous system evolution.
 
----
+The projects below are part of an ecosystem designed to standardize service communication, ensure operational control, and enable sustainable platform growth.
 
-## Professional Focus
+[Audit Service](https://github.com/IsaacDSC/auditory)
 
-### Architecture & System Design
-- Distributed systems and event-driven architectures
-- Clean Architecture, DDD, and modular design
-- API design (REST, GraphQL, gRPC)
-- High-throughput and low-latency systems
+Service responsible for system event auditing and traceability, enabling action tracking, operational history, and observability support.
+Acts as a transversal component (cross-cutting concern) within the architecture.
 
-### Platform & Infrastructure
-- Cloud and hybrid environments (AWS, On-Premise)
-- Infrastructure as Code and CI/CD pipelines
-- Nomad and Kubernetes for orchestration
-- Reliability, scalability, and cost-aware architectures
+[clienthttp](https://github.com/IsaacDSC/clienthttp)
 
-### Messaging & Integrations
-- Kafka, RabbitMQ, Pub/Sub
-- Producers, consumers, and async workflows
-- Integration hubs and cross-domain communication
+Library focused on standardizing HTTP communication between services, abstracting transport details, error handling, retries, and integration organization.
+Its goal is to reduce coupling and increase consistency across microservices.
 
-### Engineering Excellence
-- TDD / BDD
-- Observability-first mindset
-- Logging, metrics, tracing, and standardization
-- Documentation and architectural decision records (ADR)
+[featureflag](https://github.com/IsaacDSC/featureflag)
+
+Feature Flag layer that enables dynamic activation and deactivation of functionalities, supporting continuous delivery strategies, controlled testing, and risk mitigation in production environments.
+
+[gqueue](https://github.com/IsaacDSC/gqueue)
+
+Queue system designed for asynchronous processing, event-driven communication, and horizontal scalability.
+Used to decouple critical flows, improve performance, and increase system resilience.
+
+[gqueue-frontend](https://github.com/IsaacDSC/gqueue-frontend)
+
+Web interface for queue management and observability, enabling operational monitoring, message inspection, and processing flow control.
 
 ---
 
@@ -99,14 +92,6 @@ My experience spans **financial systems, growth platforms, and high-throughput i
 - Technical decisions must consider **people, cost, and evolution**
 - Mentorship is part of engineering excellence
 
----
-
-## Collaboration
-
-I'm open to collaborating on:
-- System design and architectural reviews
-- Platform engineering and backend foundations
-- Scaling teams and systems sustainably
 
 ---
 
